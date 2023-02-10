@@ -1,0 +1,11 @@
+C:\Users\SanthoshR\source\repos\stdrecors\stdrecors\bin\Debug\stdrecors.exe.config
+C:\Users\SanthoshR\source\repos\stdrecors\stdrecors\bin\Debug\stdrecors.exe
+C:\Users\SanthoshR\source\repos\stdrecors\stdrecors\bin\Debug\stdrecors.pdb
+C:\Users\SanthoshR\source\repos\stdrecors\stdrecors\obj\Debug\stdrecors.csproj.AssemblyReference.cache
+C:\Users\SanthoshR\source\repos\stdrecors\stdrecors\obj\Debug\stdrecors.csproj.SuggestedBindingRedirects.cache
+C:\Users\SanthoshR\source\repos\stdrecors\stdrecors\obj\Debug\stdrecors.Form1.resources
+C:\Users\SanthoshR\source\repos\stdrecors\stdrecors\obj\Debug\stdrecors.Properties.Resources.resources
+C:\Users\SanthoshR\source\repos\stdrecors\stdrecors\obj\Debug\stdrecors.csproj.GenerateResource.cache
+C:\Users\SanthoshR\source\repos\stdrecors\stdrecors\obj\Debug\stdrecors.csproj.CoreCompileInputs.cache
+C:\Users\SanthoshR\source\repos\stdrecors\stdrecors\obj\Debug\stdrecors.exe
+C:\Users\SanthoshR\source\repos\stdrecors\stdrecors\obj\Debug\stdrecors.pdb
