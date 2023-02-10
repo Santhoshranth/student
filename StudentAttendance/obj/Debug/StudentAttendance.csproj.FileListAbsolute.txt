@@ -1,0 +1,11 @@
+C:\Users\SanthoshR\source\repos\StudentAttendance\StudentAttendance\bin\Debug\StudentAttendance.exe.config
+C:\Users\SanthoshR\source\repos\StudentAttendance\StudentAttendance\bin\Debug\StudentAttendance.exe
+C:\Users\SanthoshR\source\repos\StudentAttendance\StudentAttendance\bin\Debug\StudentAttendance.pdb
+C:\Users\SanthoshR\source\repos\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.csproj.AssemblyReference.cache
+C:\Users\SanthoshR\source\repos\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.csproj.SuggestedBindingRedirects.cache
+C:\Users\SanthoshR\source\repos\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.Form1.resources
+C:\Users\SanthoshR\source\repos\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.Properties.Resources.resources
+C:\Users\SanthoshR\source\repos\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.csproj.GenerateResource.cache
+C:\Users\SanthoshR\source\repos\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.csproj.CoreCompileInputs.cache
+C:\Users\SanthoshR\source\repos\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.exe
+C:\Users\SanthoshR\source\repos\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.pdb
